@@ -1,8 +1,8 @@
 ## ピンクのハートはなぜ無いか - シャニマスとユニコード絵文字（１）
 
-<figure>
-    <img src="https://github.com/shironetsu/shiny-colors/blob/main/images/hcg-hearts.png?raw=true" alt="放課後クライマックスカラーのハートと符号位置"/>
-    <figcaption>図1 放課後クライマックスカラーのハートと符号位置</figcaption>
+<figure style="display:flex;flex-direction:column;justify-content:center;">
+    <img src="https://github.com/shironetsu/shiny-colors/blob/main/images/hcg-hearts.png?raw=true" alt="放課後クライマックスカラーのハートと符号位置" style="margin:0 auto">
+    <figcaption style="margin:0 auto">図1 放課後クライマックスガールズカラーのハートと符号位置</figcaption>
 </figure>
 
 ### 和泉愛依カラーのハート
@@ -12,9 +12,9 @@
 
 その中の一幕。ストレイライトからユニットを代表して黛冬優子が楽曲"Wandering Dream Chaser"を紹介する。
 
-<figure>
-    <img src="https://github.com/shironetsu/shiny-colors/blob/main/images/fuyuko-tweets-ios.png?raw=true" alt="黛冬優子のツイート"/>
-    <figcaption>図2 黛冬優子のツイート [1](https://twitter.com/imassc_official/status/1515560687082385417) [2](https://twitter.com/imassc_official/status/1515560938707038208)</figcaption>
+<figure style="display:flex;flex-direction:column;justify-content:center;">
+    <img src="https://github.com/shironetsu/shiny-colors/blob/main/images/fuyuko-tweets-ios.png?raw=true" alt="黛冬優子のツイート" style="margin:0 auto">
+    <figcaption style="margin:0 auto">図2 黛冬優子のツイート [1](https://twitter.com/imassc_official/status/1515560687082385417) [2](https://twitter.com/imassc_official/status/1515560938707038208)</figcaption>
 </figure>
 
 ストレイライト各メンバーのイメージカラーは、
@@ -25,9 +25,9 @@
 
 で、それぞれの衣装などにも取り入れられている。
 
-<figure>
-    <img src="https://github.com/shironetsu/shiny-colors/blob/main/images/straylight-members.png?raw=true" alt="ストレイライトのユニット衣装に取り入れられているイメージカラー"/>
-    <figcaption>図3 ストレイライトのユニット衣装に取り入れられているイメージカラー</figcaption>
+<figure style="display:flex;flex-direction:column;justify-content:center;">
+    <img src="https://github.com/shironetsu/shiny-colors/blob/main/images/straylight-members.png?raw=true" alt="ストレイライトのユニット衣装に取り入れられているイメージカラー" style="margin:0 auto">
+    <figcaption style="margin:0 auto">図3 ストレイライトのユニット衣装に取り入れられているイメージカラー</figcaption>
 </figure>
 
 [Straylight \(ストレイライト\) \| アイドルマスター シャイニーカラーズ\(シャニマス\)](https://shinycolors.idolmaster.jp/idol/straylight/)
@@ -41,12 +41,10 @@
 
 黛冬優子の前日、放課後クライマックスガールズ（放クラ）を代表して登場した小宮果穂によるツイート。
 
-<figure>
-    <img src="https://github.com/shironetsu/shiny-colors/blob/main/images/kaho-tweet-ios.png?raw=true" alt="小宮果穂のツイート"/>
-    <figcaption>図4 小宮果穂のツイート</figcaption>
+<figure style="display:flex;flex-direction:column;justify-content:center;">
+    <img src="https://github.com/shironetsu/shiny-colors/blob/main/images/kaho-tweet-ios.png?raw=true" alt="小宮果穂のツイート" style="margin:0 auto">
+    <figcaption style="margin:0 auto">図4 [小宮果穂のツイート](https://twitter.com/imassc_official/status/1515246869399711745)</figcaption>
 </figure>
-
-https://twitter.com/imassc_official/status/1515246869399711745
 
 放クラ各メンバーのイメージカラーは
 
@@ -65,9 +63,9 @@ https://twitter.com/imassc_official/status/1515246869399711745
 ピンクのハートは本当にないのだろうか。iOSの絵文字キーボードを開いてみよう。
 
 
-<figure>
-    <img src="https://github.com/shironetsu/shiny-colors/blob/main/images/ios-emoji-keyboard.jpeg?raw=true" alt="iOSの絵文字キーボード"/>
-    <figcaption>図5 iOSの絵文字キーボード</figcaption>
+<figure style="display:flex;flex-direction:column;justify-content:center;">
+    <img src="https://github.com/shironetsu/shiny-colors/blob/main/images/ios-emoji-keyboard.jpeg?raw=true" alt="iOSの絵文字キーボード" style="margin:0 auto">
+    <figcaption style="margin:0 auto">図5 iOSの絵文字キーボード</figcaption>
 </figure>
 
 赤、橙、黄、緑、青、紫、黒、白、茶まで同じ形状のハートが並ぶ。
@@ -78,9 +76,9 @@ https://twitter.com/imassc_official/status/1515246869399711745
 
 これは絵文字の「規格」を定めた文書からの抜粋。
 
-<figure>
-    <img src="https://github.com/shironetsu/shiny-colors/blob/main/images/heart-emoji-names.png?raw=true" alt="ハートの絵文字の規格"/>
-    <figcaption>図6 ハートの絵文字の規格</figcaption>
+<figure style="display:flex;flex-direction:column;justify-content:center;">
+    <img src="https://github.com/shironetsu/shiny-colors/blob/main/images/heart-emoji-names.png?raw=true" alt="ハートの絵文字の規格" style="margin:0 auto">
+    <figcaption style="margin:0 auto">図6 ハートの絵文字の規格</figcaption>
 </figure>
 
 [The Unicode Standard, Version 14\.0](https://www.unicode.org/Public/14.0.0/charts/CodeCharts.pdf) p.1602（100Mと大きいので注意）
@@ -110,6 +108,7 @@ https://twitter.com/imassc_official/status/1515246869399711745
 
 具体的には、例えば
 
+
 |十進法|二進法|十六進法|文字|
 |:---:|:---:|:---:|:---:|
 |0|0|00|a|
@@ -117,6 +116,7 @@ https://twitter.com/imassc_official/status/1515246869399711745
 |2|10|02|c|
 |…|…|…|
 |25|11001|19|z|
+
 
 のようにa-zの26文字に0から順に整数値を割り当てる。
 
@@ -136,7 +136,7 @@ https://twitter.com/imassc_official/status/1515246869399711745
 
 文字コードが食い違うことによる混乱を避けるため、広く共有することを目的として種々の文字コードが作られてきた。
 
-最も代表的かつ基本的なのは、アメリカの規格として作られた[ASCII](https://ja.wikipedia.org/wiki/ASCII)である。
+代表的かつ基本的なのは、アメリカの規格として作られた[ASCII](https://ja.wikipedia.org/wiki/ASCII)である。
 
 ASCIIではa-zの小文字、大文字に加え、`/`（スラッシュ）や`:`（コロン）等の記号、[制御文字](https://ja.wikipedia.org/wiki/%E5%88%B6%E5%BE%A1%E6%96%87%E5%AD%97)が全て7ビットで表現されている。
 
@@ -163,12 +163,14 @@ ASCIIをベースに、（俗にいう）半角カタカナを追加した文字
 
 ユニコードでは、各文字には一意な（そして一度決まれば原則的に不変の）符号位置と名前が与えられている。たとえば、
 
+
 |符号位置|名前|文字|
 |:---:|:---:|:---:|
 |U+53|LATIN CAPITAL LETTER S|S|
 |U+3042|HIRAGANA LETTER A|あ|
 |U+9EDB|CJK UNIFIED IDEOGRAPH-9EDB|黛|
 |U+1F41F|FISH|🐟|
+
 
 といった具合に。
 なお、ユニコードの符号位置は、慣習的に `U+` のあとに16進法で数値を置くことで表示する。
@@ -215,9 +217,9 @@ ASCIIをベースに、（俗にいう）半角カタカナを追加した文字
 [L2/08-080 Emoji Proposal Data (PDF)](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.unicode.org%2FL2%2FL2008%2F08080r-emoji-proposal.pdf)
 
 
-<figure>
-    <img src="https://github.com/shironetsu/shiny-colors/blob/main/images/hearts-draft.png?raw=true" alt="ハートの絵文字の追加に関する初期の提案"/>
-    <figcaption>図7 ハートの絵文字の追加に関する初期の提案</figcaption>
+<figure style="display:flex;flex-direction:column;justify-content:center;">
+    <img src="https://github.com/shironetsu/shiny-colors/blob/main/images/hearts-draft.png?raw=true" alt="ハートの絵文字の追加に関する初期の提案" style="margin:0 auto">
+    <figcaption style="margin:0 auto">図7 ハートの絵文字の追加に関する初期の提案</figcaption>
 </figure>
 
 その中から、ハートの絵文字について記された箇所を加工の上抜粋した（図7）。
@@ -239,12 +241,14 @@ DoCoMoは対応するものがないが、変換ルール上すべて赤っぽ�
 
 結局、提案は若干の修正を受けた後、
 
+
 |符号位置|名前|文字|
 |:---:|:---:|:---:|
 |U+1F499|[BLUE HEART](https://emojipedia.org/blue-heart/)|💙|
 |U+1F49A|[GREEN HEART](https://emojipedia.org/green-heart/)|💚|
 |U+1F49B|[YELLOW HEART](https://emojipedia.org/yellow-heart/)|💛|
 |U+1f49D|[PURPLE HEART](https://emojipedia.org/purple-heart/)|💜|
+
 
 として他の数百の絵文字とともに色付きのハートたちが登録されることになった。
 上で見た「規格」はこの時決まったもの。
@@ -264,9 +268,9 @@ Unicodeバージョン6.0、2010年のことである。
 そこで、漢字の異体字と同じ仕組みで、それ自体は表示されない((こういった表示上の幅がなく、他の文字と組み合わせて一つの単位となるような文字の存在がユニコードで「文字数」を数えることを難しくしている。人が見て「1文字」と認識する単位のことを**書記素クラスタ**という。カーソルの移動一つ分は書記素クラスタ1個分になる。書記素クラスタはユニコードの仕様として厳密に定まっているため、適切なライブラリさえ使えば問題は回避できる。))特殊な文字、[異体字セレクタ](https://ja.wikipedia.org/wiki/%E7%95%B0%E4%BD%93%E5%AD%97%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%BF)によってテキストスタイルと絵文字スタイルの記号を出しわける方法が考案された。
 具体的には、`U+2764` の直後に `U+FE0F` を置くと「絵文字らしい」ハートになることが決められている。一方、`U+FE0E`なら黒塗りのハートのままだ（図8）。
 
-<figure>
+<figure style="display:flex;flex-direction:column;justify-content:center;">
     <img src="https://github.com/shironetsu/shiny-colors/blob/main/images/heavy-black-hearts.png?raw=true" alt="HEAVY BLACK HEARTSのテキストスタイルと絵文字スタイル">
-    <figcaption>図8 HEAVY BLACK HEARTSのテキストスタイルと絵文字スタイル</figcaption>
+    <figcaption style="margin:0 auto">図8 HEAVY BLACK HEARTSのテキストスタイルと絵文字スタイル</figcaption>
 </figure>
 
 参考：[Emoji Presentation Sequences, v14\.0](https://unicode.org/emoji/charts/emoji-variants.html)
@@ -284,12 +288,14 @@ Unicode emojiを網羅的に収録している辞書的なウェブサイト、[
 
 明示的に色が指定されたハートの絵文字は、最初は青・緑・黄・紫の4つだったが、その後、携帯電話の絵文字にはなかった黒・橙・白・茶が追加されて8つとなっている。
 
+
 |符号位置|名前|文字|追加されたバージョン|
 |:----:|:---:|:---:|:---:|
 |U+1F5A4|[BLACK HEART](https://emojipedia.org/black-heart/)|🖤|9.0|
 |U+1F9E1|[ORANGE HEART](https://emojipedia.org/orange-heart/)|🧡|10.0|
 |U+1F90D|[WHITE HEART](https://emojipedia.org/white-heart/)|🤍|12.0|
 |U+1F90E|[BROWN HEART](https://emojipedia.org/brown-heart/)|🤎|12.0|
+
 
 参考：[What Every Heart Emoji Really Means](https://blog.emojipedia.org/what-every-heart-emoji-really-means/)
 
@@ -343,7 +349,7 @@ Emojipediaの記事 ["Pink Heart Emoji Might Finally Become Reality"](https://bl
 ### シャニマスと絵文字
 
 シャニマスは他のツイッター上の企画（特に2021年8月30日のノクチルツイッター企画以後）でも積極的にユニコード絵文字を利用している。
-次の記事ではシャニマスがユニコード絵文字をどう取り込んでいるか、他の実例を見る予定。
+次の記事ではシャニマスがユニコード絵文字をどう取り込んでいるか、他の実例を見る。
 
 ### リファレンス
 
